@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    text-align: center;
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 200%;
+}
+
+
+#img-div{
+    background-color: #fff;
+    margin: 0px 25px;
+    padding: 10px 0px;
+}
+
+ul{
+    padding: 0px 10px;
+    list-style: none;
+}
+
+p{
+    line-height: 1.5em;
+}
+ul h3{
+    text-align: left;
+}
+
+blockquote{
+    font-style: italic;
+}
